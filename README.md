@@ -44,6 +44,30 @@ Listed_in: Genre
 Description: The summary description
 
 
+** Insights based on Non-Graphical and Visual Analysis** 
+•  Target Demographics with Age-Specific Content:
+•	Netflix has a large portion of its content targeted at mature audiences (TV-MA, TV-14, TV-PG), leaving a gap for younger audiences (below 14) and older adults (above 35).
+•	Action: To increase engagement, Netflix should consider creating more content for younger audiences (ages 5-14) and seniors (ages 55+). Introducing classic movies or family-friendly TV shows can cater to these under-served groups, especially in countries like India, where these age groups represent a significant portion of the population.
+•  Leverage TV Shows for Growth:
+•	The trend shows that since 2018, there has been a drop in movie content but a continuous rise in TV shows, with TV shows surpassing movies in 2020.
+•	Action: Netflix should continue its focus on producing more TV shows, particularly in regions where TV shows have been gaining popularity. Creating localized TV content for specific countries could further boost engagement and subscriptions.
+•  Produce More Content for Countries with Growing Audiences:
+•	The United States is the largest contributor to Netflix content, but there’s room for expanding region-specific content in other populous countries like India, Brazil, and Indonesia.
+•	Action: Invest in localized content for emerging markets, especially focusing on popular genres and ratings specific to each country's preferences. For example, producing more family-friendly content (TV-Y, TV-G) in India could help capture the young and senior demographics.
+•  Content for Niche Audiences:
+•	A significant portion of Netflix content is post-2000 releases, leaving out a large volume of classic movies.
+•	Action: Adding more pre-2000 content could appeal to older audiences who prefer classic cinema. Netflix can consider curating special sections for classic movies, potentially attracting nostalgic viewers.
+•  Rebound from the Pandemic Slowdown:
+•	The dataset shows a decline in content production during 2020 and 2021, likely due to the pandemic, with movies seeing a larger drop compared to TV shows.
+•	Action: As the entertainment industry recovers, Netflix should focus on accelerating its content pipeline. Producing original films and shows at a faster rate will help regain momentum lost during the pandemic, especially as theaters and competitors are also vying for audience attention.
+•  Optimize Content Release Strategy:
+•	Shorter duration movies have become more popular in the last 10 years.
+•	Action: Netflix can optimize the release of shorter, high-quality films, which are more suited to modern audience viewing habits. Mini-series and shorter movies can also help retain viewers who prefer quick, binge-able content.
+•  Expand Genre Diversity:
+•	Certain countries (like the US) have broader availability of ratings such as TV-Y7, TV-PG, etc., but this is not the case in other countries.
+•	Action: To cater to a wider audience in various countries, Netflix should expand the range of available content across all ratings. Producing family-friendly and all-age content in countries with significant younger populations can lead to more widespread engagement.
+
+
 
 
 
